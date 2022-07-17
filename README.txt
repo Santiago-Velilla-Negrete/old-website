@@ -3,9 +3,7 @@ BEEP!
 
 
 
-Hi, and if you're reading this is probably you saw my first website. I know it isn't much thing and actually kinda sucks
-but I'm only learning how to code. It will get more updates with probably more stuff. Next step is CSS so be tuned!
-Because... THERE WE GO!
+Css is ready lets goooooooooooooooooooooooooooooooooo :D
 
 
 
